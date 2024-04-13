@@ -12,4 +12,4 @@ right amounts of ingredients and instructions as a result.
 
 ## BewerbungsScript
 
-A simple script to create a application-generator for flat interviews.
+A simple application-generator script for flat interviews.
